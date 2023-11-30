@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://d20mipmg8iamd"]
+
+[ext_resource type="AudioStream" uid="uid://5xyencnyxv3k" path="res://main/Mooph - Polish Cow.mp3" id="1_smje0"]
+
+[node name="themesong" type="AudioStreamPlayer"]
+stream = ExtResource("1_smje0")
