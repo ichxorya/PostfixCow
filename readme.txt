@@ -1,4 +1,4 @@
-[[Ứng dụng trực quan hóa thuật toán liên quan đến ký pháp hậu tố Ba Lan]]
+[[Ứng dụng trực quan hóa thuật toán liên quan đến ký pháp hậu tố Ba Lan -- PostfixCow.exe]]
 
 - Vài nét về cách triển khai bài tập lớn:
 + Bài tập lớn được triển khai dựa trên nền tảng công cụ phát triển game Godot 4.
@@ -20,6 +20,8 @@
 	Chạy bằng cách ấn nút "play" để chạy thử
 	Để xuất chương trình, nhấn vào phần Project->Export và chọn Add để thêm nền tảng cần xuất chương trình (config nếu cần); rồi nhấn Export All, chọn Release.
 
+	Trên nền tảng Windows: Có thể chạy ngay "PostfixCow.exe".
+	
 + Cách thực thi/sử dụng bài tập lớn:
 	Chế độ mặc định sẽ là #1. Để đổi chế độ, nhấn vào hình con bò.
 	Âm thanh và nhạc được bật mặc định, để bật/tắt hãy nhấn vào hình cái loa. Khi âm thanh đã tắt, con bò sẽ ngừng nhảy múa.
